@@ -31,6 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning vivek singh finished with kubernetes </h1>
+   <h1> Thankyou, Happy Learning 
+     <h1>vivek singh finished with kubernetes </h1>
+     <h1> you will select in MNC company</h1>
   
 </form>
