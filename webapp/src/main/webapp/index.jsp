@@ -31,6 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning vivek singh 39 </h1>
+   <h1> Thankyou, Happy Learning vivek singh i don like kube </h1>
   
 </form>
